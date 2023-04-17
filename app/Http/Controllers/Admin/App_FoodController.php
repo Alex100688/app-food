@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Admin;
 
 use App\Http\Controllers\Controller;
+use App\Models\App_food;
 use Illuminate\Http\Request;
 
 class App_FoodController extends Controller
